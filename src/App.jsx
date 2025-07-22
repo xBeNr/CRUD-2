@@ -7,6 +7,7 @@ import UserForm from './components/UserForm';
 import UserList from './components/UserList';
 
 const API_URL = 'http://localhost:3000/axios';
+const API_URL2 = 'http://localhost:3000/fetch';
 
 function App() {
   const [users, setUsers] = useState([]);

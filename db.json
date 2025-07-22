@@ -1,0 +1,19 @@
+{
+  "axios": [
+    {
+      "id": "be03",
+      "name": "Benjamin",
+      "email": "Benjamin@gmail.com"
+    },
+    {
+      "id": "ec29",
+      "name": "Brandon",
+      "email": "Brandon@outlook.com"
+    },
+    {
+      "id": "eccd",
+      "name": "Fabricio",
+      "email": "Fabricio@hotmail.com"
+    }
+  ]
+}
